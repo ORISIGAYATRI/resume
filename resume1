@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>RESUME</title>
+</head>
+<body bgcolor="#FBFAF0 ">
+ <table width="700px"
+ height="800px" align="center">
+   <tr>
+   	<td
+ width="150px"bgcolor="#F9E929 "
+ style="color:red;padding: 20px">
+        <h1>personal details</h1> <hr>
+        <p>
+        	<b>NAME:</b><br>ORISI GAYATRI<br>
+  <br>
+             <b>COLLEGE:</b><br>
+             JNTUK-UCEV<br>
+  <br>
+              <b>PHONE NUMBER:</b><br">
+              9014624435<br>
+  <br>
+              <b>EMAIL ID:</b><br>
+              <a href="orisigayatri@gmail.com"target="Email">orisigayatri@gmail.com</a><br>
+
+          </p>
+          </td>
+          <td
+width="500px"bgcolor="#FDC0EF ">
+     <h1>Orisi Gayatri</h1>
+     <h2>Academic Qualifications</h2>
+    <table border="4">
+    <tr>
+    	<th>S.No<br></th>
+    	<th>Qualification<br></th>
+    	<th>School/college<br></th>
+    	<th>Year<br></th>
+    	<th>Grade<br></th>
+    </tr>
+    <tr>
+    	<th>1<br></th>
+    	<th>B.tech 1 Year<br></th>
+    	<th>JNTUK-UCEV<br></th>
+    	<th>2020<br></th>
+    	<th>8.1<br></th>
+    </tr>
+    <tr>
+    	<th>2<br></th>
+    	<th>inter 2nd year<br></th>
+    	<th>pragati junior college<br></th>
+        <th>2019<br></th>
+        <th>9.8<br></th>
+    </tr>
+    <tr>
+    	<th>3<br></th>
+    	<th>inter 1st year<br></th>
+    	<th>pragati junior college<br></th>
+    	<th>2018<br></th>
+    	<th>10.0<br></th>
+    </tr>
+    <tr>
+    	<th>4<br></th>
+    	<th>X class<br></th>
+    	<th>3rd bn APSP EM high school<br></th>
+    	<th>2017<br></th>
+    	<th>10.0<br></th>
+    </table>
+    <hr>
+    <p>
+    	<h2>Skills</h2>
+    	<ul>
+    		<li>Creativity skills</li>
+    		<li>Communication Skills</li>
+    		<li>Coding</li>
+    	</ul>
+    </p>
+    <hr>
+    <p>
+     <h2>Hobbies</h2>
+     <ul>
+     	<li>playing games</li>
+     	<li>listening songs</li>
+     </ul>
+     </p>
+
+   </td>
+  </tr>
+</table>
+ <body>
+
+</body>
+</html>
